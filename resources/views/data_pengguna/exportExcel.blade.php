@@ -31,7 +31,6 @@ $Tanggal = new \App\Helpers\Tanggal; //panggil no static function
         @endphp
         <tr>
             <td>{{$no++}}</td>
-            {{-- <td><img width="100px" height="60px" class="rounded-5" src="@if($dt->img) {{asset('')}}images/user/{{$dt->img}} @else {{asset('')}}images/no-user.png @endif" style="object-fit:cover"> </td> --}}
             <td>{{$dt->name??''}}</td>
             <td>{{$dt->email??''}}</td>
             <td>{{$dt->namerole??''}}</td>

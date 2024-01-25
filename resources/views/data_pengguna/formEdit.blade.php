@@ -33,7 +33,7 @@
                 <div class="col-md-12">
                     <div class="row">
                         <div class="col-md-12">
-                        
+                       
                             <div class="row row-xs align-items-center mg-b-20">
                                 <div class="col-md-3">
                                     <label class="form-label mg-b-0">Nama </label>
